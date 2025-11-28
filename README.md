@@ -1,9 +1,9 @@
 # Snake Controller by MSP430
 
-<img width="1536" height="1024" alt="dcc8fc58-3d25-4349-a748-4e5a24633067" src="https://github.com/user-attachments/assets/9072666a-2970-4ad2-9bb1-f8e9020fc3bd" />
-
 ¡Welcome to a Snake Controlled by MSP430! 🐍🎮
 This project combines hardware and software to create an interactive experience of the clasic Snake game, where an MSP430 microcontroller acts as a controller,and a Java interfaces displays the game on screen.
+
+<img width="1536" height="1024" alt="dcc8fc58-3d25-4349-a748-4e5a24633067" src="https://github.com/user-attachments/assets/9072666a-2970-4ad2-9bb1-f8e9020fc3bd" />
 
 ## Description
 
