@@ -38,7 +38,7 @@ public class VentanaPrincipal extends JFrame{
 	
 	
      public VentanaPrincipal() {
-        super("¡El mejor juego de la historia (SNAKE DE GOOGLE)!");
+        super("Â¡El mejor juego de la historia (SNAKE)!");
         VentanaPrincipal esto = this;
         
         SerialPort[] listaPuertos = SerialPort.getCommPorts();
@@ -268,4 +268,5 @@ public class VentanaPrincipal extends JFrame{
      }
      
      
+
 }
