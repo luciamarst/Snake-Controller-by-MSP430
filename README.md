@@ -1,6 +1,9 @@
-# Snake Controlado por MSP430
+# Snake Controller by MSP430
 
-¡Bienvenido a Snake Controlado por MSP430! 🐍🎮
+
+<img width="1536" height="1024" alt="dcc8fc58-3d25-4349-a748-4e5a24633067" src="https://github.com/user-attachments/assets/9072666a-2970-4ad2-9bb1-f8e9020fc3bd" />
+
+¡Welcome to a Snake Controlled by MSP430! 🐍🎮
 Este proyecto combina hardware y software para crear una experiencia interactiva del clásico juego Snake, donde un microcontrolador MSP430 actúa como mando, y una interfaz en Java muestra el juego en pantalla.
 
 ## Descripción
@@ -44,3 +47,15 @@ La serpiente se moverá según los botones presionados en la placa.
 
 Control por teclado (opcional):
 Flechas del teclado para mover la serpiente si no se usa la placa.
+
+## Estructura del Proyecto
+/MSP430
+    main.c       # Código del microcontrolador
+/Java
+    VentanaPrincipal.java  # Interfaz gráfica del juego
+    Bucle.java             # Lógica del temporizador
+    Posicion.java          # Clase para la posición de la serpiente
+    DIRECCION.java         # Enum de direcciones
+
+## Autor
+Lucía Martínez Martínez
